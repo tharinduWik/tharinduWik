@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tharindy</h1>
+<h1 align="center">Hi 👋, I'm Tharindu</h1>
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 
 - 📫 How to reach me **wiksith@gmail.com**
